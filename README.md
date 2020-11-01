@@ -7,7 +7,7 @@ The Pneumonia folder contains images of two different categories **virus** and *
 Here it is an example for the three classes:
 
 <div align="center">
-    <img src="https://github.com/March-08/Pneumonia-Chest-X-Rays-Classifier/blob/main/image.png" width="800px"</img> 
+    <img src="https://github.com/March-08/Pneumonia-Chest-X-Rays-Classifier/blob/main/Chest.png" width="800px"</img> 
 </div>
 
 The dataset has the following distribution:
